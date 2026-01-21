@@ -1,4 +1,3 @@
-# Elevate-Labs-Task-1
 # JF Studio - Creative Digital Studio
 
 A modern, responsive website for JF Studio showcasing web design, development, and digital marketing services.
